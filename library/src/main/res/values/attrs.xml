@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ExBottomSheetBehavior">
+        <attr name="bsb_peekHeight" format="dimension" />
+        <attr name="bsb_hideable" format="boolean" />
+        <attr name="bsb_skipCollapsed" format="boolean" />
+        <attr name="bsb_handleHeight" format="dimension" />
+    </declare-styleable>
+</resources>

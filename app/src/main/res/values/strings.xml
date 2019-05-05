@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BottomSheet</string>
+
+    <string name="handle">Handle</string>
+
+    <string name="state_expanded">EXPANDED</string>
+    <string name="state_peek">PEEK</string>
+    <string name="state_collapsed">COLLAPSED</string>
+    <string name="state_hidden">HIDDEN</string>
+    <string name="skip_collapsed">SKIP COLLAPSED</string>
+
+</resources>

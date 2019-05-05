@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/state_expanded"
+        android:title="@string/state_expanded"
+        app:showAsAction="withText" />
+
+    <item
+        android:id="@+id/state_peek"
+        android:title="@string/state_peek"
+        app:showAsAction="withText" />
+
+    <item
+        android:id="@+id/state_collapsed"
+        android:title="@string/state_collapsed"
+        app:showAsAction="withText" />
+
+    <item
+        android:id="@+id/state_hidden"
+        android:title="@string/state_hidden"
+        app:showAsAction="withText" />
+
+    <item
+        android:id="@+id/skip_collapsed"
+        android:title="@string/skip_collapsed"
+        app:showAsAction="withText" />
+</menu>
